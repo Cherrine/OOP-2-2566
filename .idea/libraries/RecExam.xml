@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="RecExam">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/RecExam/dist/RecExam.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
